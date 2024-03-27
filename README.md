@@ -1,6 +1,3 @@
-# HEC-2109-4-Lab2
+# BAE 305 Lab 11
 
-Contains material and python code needed for HEC Class Two Week Python Module in September 2021
-
-Click here to run in mybinder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvkrogmeier/HEC-2109-4-Lab2/HEAD)
+Run in [Anaconda notebook](https://anaconda.cloud/share/notebooks/77b772c9-6d42-4cdc-98f3-3cebb9e3adf3/overview)
